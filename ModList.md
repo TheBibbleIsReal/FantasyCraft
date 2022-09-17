@@ -1,12 +1,12 @@
-[Additional Bars]
+[Additional Bars](https://www.curseforge.com/minecraft/mc-mods/additional-bars-fabric/files/3568648)
 
-[Adventurez]
+[Adventurez](https://www.curseforge.com/minecraft/mc-mods/adventurez/files/3676301)
 
-[Artifacts]
+[Artifacts](https://www.curseforge.com/minecraft/mc-mods/artifacts-fabric/files/3656320)
 
-[Backslot]
+[Backslot](https://www.curseforge.com/minecraft/mc-mods/backslot/files/3645151)
 
-[Bclib]
+[Bclib]()
 
 [Better End]
 
