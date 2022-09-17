@@ -1,129 +1,129 @@
 [Additional Bars]
 
-Adventurez
+[Adventurez]
 
-Artifacts
+[Artifacts]
 
-Backslot
+[Backslot]
 
-Bclib
+[Bclib]
 
-Better End
+[Better End]
 
-Better Nether
+[Better Nether]
 
-Bosses Of Mass Destruction
+[Bosses Of Mass Destruction]
 
-Bountiful
+[Bountiful]
 
-Carpet
+[Carpet]
 
-Carpet-Fixes
+[Carpet-Fixes]
 
-Chunky
+[Chunky]
 
-Cloth
+[Cloth]
 
-Clumps
+[Clumps]
 
-Companion
+[Companion]
 
-Crawl
+[Crawl]
 
-Croptopia
+[Croptopia]
 
-DarkerDepths
+[DarkerDepths]
 
-Dehydration
+[Dehydration]
 
-DragonLoot
+[DragonLoot]
 
-DrinkBeer
+[DrinkBeer]
 
-Eldritch Mobs
+[Eldritch Mobs]
 
-Enchantment Lore
+[Enchantment Lore]
 
-Envionmentz
+[Envionmentz]
 
-Extra Origins
+[Extra Origins]
 
-Fabric api
+[Fabric api]
 
-Fabric Carpet
+[Fabric Carpet]
 
-Fabric Fantasy Origins
+[Fabric Fantasy Origins]
 
-Fabric Language Kotlin
+[Fabric Language Kotlin]
 
-FerriteCore
+[FerriteCore]
 
-ForgeConfigAPIPort
+[ForgeConfigAPIPort]
 
-Friends and Foes
+[Friends and Foes]
 
-Geckolib
+[Geckolib]
 
-Goblins n' Dungeons
+[Goblins n' Dungeons]
 
-Grizzly Bear
+[Grizzly Bear]
 
-Guard Villagers
+[Guard Villagers]
 
-Kambrik
+[Kambrik]
 
-Krypton
+[Krypton]
 
-Lazydfu
+[Lazydfu]
 
-Lithium
+[Lithium]
 
-Morevillagers
+[Morevillagers]
 
-mo' structures
+[mo' structures]
 
-Mowzies mobs
+[Mowzies mobs]
 
-Mythic Mounts
+[Mythic Mounts]
 
-Nature Expansion
+[Nature Expansion]
 
-Nomadic Tents
+[Nomadic Tents]
 
-Oh The Biomes You'll Go Refabricated
+[Oh The Biomes You'll Go Refabricated]
 
-Origins
+[Origins]
 
-owolib
+[owolib]
 
-Pehkui
+[Pehkui]
 
-Phosphor
+[Phosphor]
 
-PuzzlesLib
+[PuzzlesLib]
 
-Sit
+[Sit]
 
-SkyVillages
+[SkyVillages]
 
-Styled Nicknames
+[Styled Nicknames]
 
-TerraBlender
+[TerraBlender]
 
-The_Graveyard
+[The_Graveyard]
 
-Trinkets
+[Trinkets]
 
-Twigs
+[Twigs]
 
-Voicechat
+[Voicechat]
 
-Voidz
+[Voidz]
 
-Wraith Alloy Forgery
+[Wraith Alloy Forgery]
 
-Wraith Harvest Scythes
+[Wraith Harvest Scythes]
 
-XP Obelisk
+[XP Obelisk]
 
-You're in grave danger
+[You're in grave danger]
