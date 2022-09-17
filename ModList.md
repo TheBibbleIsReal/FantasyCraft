@@ -1,4 +1,4 @@
-Additional Bars
+[Additional Bars]
 
 Adventurez
 
